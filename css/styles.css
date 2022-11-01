@@ -1,7 +1,6 @@
 .title {
     text-align: center;
 }
-<<<<<<< HEAD
 .center {
     margin: 0;
     position: absolute;
@@ -10,8 +9,6 @@
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
   }
-=======
-
 .sizeMe {
 
 
@@ -19,4 +16,4 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
 }
->>>>>>> 7c92a59f97b93f9fc5eb344e4a0a9662c5aaa9c1
+
