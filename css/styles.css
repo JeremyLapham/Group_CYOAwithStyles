@@ -24,4 +24,5 @@
 .pageBack {
     background-image: url("../assets/TurkeyWeapon.jpg");
     background-repeat: no-repeat;
+    background-color: rgb(237, 175, 75);
   }
