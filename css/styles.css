@@ -11,8 +11,8 @@
   }
 .sizeMe {
     text-align: center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
 }
 
 body {
@@ -22,9 +22,4 @@ body {
 /* .pageBack {
     background-image: url("../assets/TurkeyWeapon.jpg");
     background-repeat: no-repeat;
-<<<<<<< HEAD
   } */
-=======
-    background-color: rgb(237, 175, 75);
-  }
->>>>>>> 3c66d0a626e94714498c933fe184c379f204be3a
