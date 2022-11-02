@@ -21,6 +21,11 @@
 body {
     background-image: url("../assets/fallPic.jpg");
 }
+.startBtn button {
+    margin: 1rem;
+    transition: all 0.5s ease;
+    transform: scale(1);
+  }
 
 /* .pageBack {
     background-image: url("../assets/TurkeyWeapon.jpg");
