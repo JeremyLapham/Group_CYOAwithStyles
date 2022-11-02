@@ -1,6 +1,7 @@
 .title {
     text-align: center;
 }
+
 .center {
     margin: 0;
     position: absolute;
@@ -8,7 +9,8 @@
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-  }
+}
+
 .sizeMe {
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
