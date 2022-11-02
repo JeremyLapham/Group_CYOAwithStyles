@@ -20,6 +20,8 @@
 
 body {
     background-image: url("../assets/fallPic.jpg");
+    background-position: bottom;
+    background-position: left;
 }
 
   
