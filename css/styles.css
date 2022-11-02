@@ -10,19 +10,21 @@
     transform: translate(-50%, -50%);
   }
 .sizeMe {
-
-
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 30px;
 }
 
-.indexBack {
+body {
     background-image: url("../assets/fallPic.jpg");
 }
 
-.pageBack {
+/* .pageBack {
     background-image: url("../assets/TurkeyWeapon.jpg");
     background-repeat: no-repeat;
+<<<<<<< HEAD
+  } */
+=======
     background-color: rgb(237, 175, 75);
   }
+>>>>>>> 3c66d0a626e94714498c933fe184c379f204be3a
