@@ -27,6 +27,24 @@ body {
     transform: scale(1);
   }
 
+.startBtn {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+    border: 10px solid black;
+    height: 115px;
+    text-align: center
+  }
+
+  .startBtn:hover {
+
+    font-size: 38px
+  }
+
+
+
 /* .pageBack {
     background-image: url("../assets/TurkeyWeapon.jpg");
     background-repeat: no-repeat;
