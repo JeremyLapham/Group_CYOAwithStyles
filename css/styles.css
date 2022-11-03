@@ -49,7 +49,7 @@ body {
 .backToTitleBtn {
   margin: 0;
   position: absolute;
-  top: 75%;
+  top: 80%;
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
@@ -104,6 +104,37 @@ body {
   justify-content: space-evenly;
 }
 /* Super stregth and super speed buttons done like that on purpose */
+.imageSize {
+  margin: 0;
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  width: 200px;
+  border: 1px solid black;
+  height: 400px;
+}
+.imageSizeEnding {
+  margin: 0;
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  width: 200px;
+  border: 1px solid black;
+  height: 255px;
+}
+.imageSizeFlash {
+  margin: 0;
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  width: auto;
+  border: 1px solid black;
+  height: auto;
+}
 
 
 /* .pageBack {
