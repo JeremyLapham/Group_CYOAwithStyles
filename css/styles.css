@@ -27,7 +27,6 @@ body {
   
 
 .startBtn {
-
   display: flex;
   justify-content: center;
   align-items: center;
@@ -47,6 +46,64 @@ body {
   height: auto;
   width: 200px;
 }
+.backToTitleBtn {
+  margin: 0;
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  border: 1px solid black;
+  height: 100px;
+  text-align: center;
+}
+.backToTitleBtn:hover {
+  font-size: 30px;
+}
+.yesBtn {
+  margin: 0;
+  position: absolute;
+  top: 75%;
+  left: 25%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  border: 1px solid black;
+  height: 55px;
+  text-align: center;
+} 
+.yesBtn:hover {
+  font-size: 25px;
+}
+.noBtn {
+  margin: 0;
+  position: absolute;
+  top: 75%;
+  left: 75%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  border: 1px solid black;
+  height: 55px;
+  text-align: center;
+} 
+.noBtn:hover {
+  font-size: 25px;
+}
+.spaceEvenly {
+  justify-content: space-evenly;
+}
+/* Super stregth and super speed buttons done like that on purpose */
 
 
 /* .pageBack {
