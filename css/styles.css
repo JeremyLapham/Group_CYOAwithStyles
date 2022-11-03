@@ -1,30 +1,34 @@
 .title {
-    text-align: center;
-    font-size: 65px;
+  text-align: center;
+  font-size: 65px;
 }
 
 .center {
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.endingsBtn:hover {
+  font-size: 30px;
 }
 
 .sizeMe {
-    text-align: center;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 30px;
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 30px;
 }
 
 body {
-    background-image: url("../assets/fallPic.jpg");
-    background-position: bottom;
-    background-position: left;
+  background-image: url("../assets/fallPic.jpg");
+  background-position: bottom;
+  background-position: left;
 }
 
-  
+
 
 .startBtn {
   display: flex;
@@ -34,21 +38,22 @@ body {
   border: 1px solid black;
   height: 100px;
   text-align: center;
-  }
-  .startBtn:active {
-    
-  }
+}
 
-  .startBtn:hover {
+.startBtn:active {}
 
-    font-size: 38px;
-  }
+.startBtn:hover {
+
+  font-size: 38px;
+}
+
 .turkey {
   border-radius: 4px;
   padding: 5px;
   height: auto;
   width: 200px;
 }
+
 .backToTitleBtn {
   margin: 0;
   position: absolute;
@@ -64,9 +69,11 @@ body {
   height: 100px;
   text-align: center;
 }
+
 .backToTitleBtn:hover {
   font-size: 30px;
 }
+
 .yesBtn {
   margin: 0;
   position: absolute;
@@ -81,10 +88,12 @@ body {
   border: 1px solid black;
   height: 55px;
   text-align: center;
-} 
+}
+
 .yesBtn:hover {
   font-size: 25px;
 }
+
 .noBtn {
   margin: 0;
   position: absolute;
@@ -99,13 +108,16 @@ body {
   border: 1px solid black;
   height: 55px;
   text-align: center;
-} 
+}
+
 .noBtn:hover {
   font-size: 25px;
 }
+
 .spaceEvenly {
   justify-content: space-evenly;
 }
+
 /* Super stregth and super speed buttons done like that on purpose */
 .imageSize {
   margin: 0;
@@ -118,6 +130,7 @@ body {
   border: 1px solid black;
   height: 400px;
 }
+
 .imageSizeEnding {
   margin: 0;
   position: absolute;
@@ -129,6 +142,7 @@ body {
   border: 1px solid black;
   height: 255px;
 }
+
 .imageSizeFlash {
   margin: 0;
   position: absolute;
