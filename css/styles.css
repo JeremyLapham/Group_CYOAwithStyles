@@ -1,6 +1,5 @@
 .title {
-  text-align: center;
-  font-size: 65px;
+  
 }
 
 .center {
@@ -116,6 +115,7 @@ body {
 
 .spaceEvenly {
   justify-content: space-evenly;
+  
 }
 
 /* Super stregth and super speed buttons done like that on purpose */
@@ -151,6 +151,19 @@ body {
   width: auto;
   border: 1px solid black;
   height: auto;
+}
+
+.justifyNow {
+
+  justify-content: flex-end;
+
+
+}
+
+.sizeMeh {
+
+
+  display: flex;
 }
 
 
